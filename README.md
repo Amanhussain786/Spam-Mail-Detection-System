@@ -1,7 +1,7 @@
 
 # Spam Mail Detection System
 
-Spam mail detection system is basically a machine learning model which tells whether a mail is spam or not with the help os some machine learning algorithm.
+Spam mail detection system is basically a machine learning model which tells whether a mail is spam or not with the help of Machine learning algorithm.
 
 
 ## Prerequisites
