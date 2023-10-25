@@ -34,4 +34,5 @@ Contributions to the Spam mail detection system are welcome. If you find any iss
 
 ## Screenshot
 
+![Streamlit](https://github.com/Amanhussain786/Spam-Mail-Detection-System/assets/78783889/17116e52-99a6-4fa1-b90e-61949964c6ed)
 
